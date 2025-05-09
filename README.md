@@ -1,0 +1,1 @@
+# evisa.e-govt.kg-qr-printstatusqr2-php-id-c4ad228cb43b05a
